@@ -48,3 +48,6 @@ To compile and run the program:
 2. Compile the source code using a C++ compiler (e.g., g++).
 3. Execute the compiled binary to generate the ray-traced image.
 
+## Expected output using dragon.off 
+- Here is the output of a large 32MB OFF generally only possible to ray trace with an accelerated method)
+![Dragon](raytrace.png)
